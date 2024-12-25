@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Michoel Moshel
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michoel
+last_name: Moshel
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate and Clinial Neuropsychologist registrar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Macquarie University
+    url: https://researchers.mq.edu.au/en/persons/michoel-moshel
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,16 +43,14 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Expertise:
+  - Screen Addiction
+  - Neuropsychology
+  - Acquired Brain Injury
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master's and PhD Candidate Clinical Neuropsychology
+    institution: Macquarie University
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
