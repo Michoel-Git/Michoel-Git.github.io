@@ -44,59 +44,51 @@ Expertise:
   - Neuropsychology
   - Acquired Brain Injury
 
+# Education
 education:
-  - area: Master's and PhD Candidate Clinical Neuropsychology
-    institution: Macquarie University
+  - area: PhD/Master's in Clinical Neuropsychology
+    institution: Macquarie University / University Medical Center Hamburg-Eppendorf
+    date_start: 2020-02
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis: *Reversal of Brain Damage from Internet Gaming Disorder: Neuropsychological Impacts and Remediation*. 
+      Supervised by Dr. Wayne Warburton, Prof. J. Batchelor, and Dr. J. Bennett.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Honours in Psychology (1st Class)
+    institution: University of Sydney
+    date_start: 2019-02
+    date_end: 2019-11
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Research on advanced neurocognitive methodologies under Dr. Tom Carlson.
+
+  - area: Bachelor of Science
+    institution: University of Melbourne
+    date_start: 2015-08
+    date_end: 2018-11
+    summary: |
+      Majored in Neuroscience and Psychology.
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: DAAD Visiting Research Scholar
+    company_name: German Center for Addiction Research in Childhood and Adolescence
+    date_start: 2024-02
+    date_end: 2024-07
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Conducted national-scale research on adolescent digital media use. Developed advanced expertise in statistical modeling and longitudinal analysis.
+
+  - position: Provisional Psychologist
+    company_name: arbias
+    date_start: 2023-05
+    date_end: 2023-12
+    summary: |
+      Specialized in acquired brain injuries, providing neuropsychological assessments and individualized rehabilitation plans.
+
+  - position: Sessional Teaching Academic
+    company_name: Macquarie University / University of Melbourne
+    date_start: 2021-02
+    date_end: Present
+    summary: |
+      Delivered lectures and tutorials on topics including biopsychology, neuroscience, and developmental psychology.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -138,35 +130,29 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: DAAD Scholarship
+    awarder: German Academic Exchange Service
+    date: 2024-02
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded for research in adolescent digital media use at the University Medical Center Hamburg-Eppendorf.
+
+  - title: Most-Read Article of 2023
+    awarder: The Conversation
+    date: 2023-11
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      "Does screen use really impact our thinking skills? Our analysis suggests it could."
+# Publications
+publications:
+  - title: "Neuropsychological Deficits in Disordered Screen Use Behaviours: A Systematic Review and Meta-analysis"
+    journal: Neuropsychology Review
+    year: 2023
+  - title: "Are you for real? Decoding realistic AI-generated faces from neural activity"
+    journal: Vision Research
+    year: 2022
+    
 ---
 
 ## About Me
-
 Michoel Moshel is a PhD candidate specialising in the study of problematic digital technology use—including social media, online gaming, internet use, and smartphone dependency—and its effects on the brain. His groundbreaking research has significantly advanced understanding in this emerging field.
 
 In addition to his academic pursuits, Michoel holds a Master’s degree in Clinical Neuropsychology and works as a neuropsychologist at a leading brain injury clinic, where he applies his expertise to help patients recover and thrive.
